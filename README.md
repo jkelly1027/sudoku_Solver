@@ -12,4 +12,4 @@ Back Tracking Algorithm:
 # If no valid solution is found in this square after backtracking we back track again.
 # This process is repeated until all squares are valid.
 
-Created using python, no other dependancies. 
+Created using python, no other dependencies. 
